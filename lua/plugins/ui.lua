@@ -59,4 +59,5 @@ return {
       }
     end,
   },
+  { "MunifTanjim/nui.nvim", lazy = true }
 }

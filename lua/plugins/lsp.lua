@@ -49,6 +49,7 @@ return {
       -- LSP Server Settings
       ---@type lspconfig.options
       servers = {
+        bufls = {},
         gopls = {
           settings = {
             gopls = {
